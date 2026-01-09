@@ -74,7 +74,7 @@ layers:
   - F5
   - {t: '$$mdi:menu-up$$', s: '$$mdi:mouse$$'}
   - F6
-  - F7
+  - {t: '8', s: '*'}
   - F8
   - F9
   - F10
